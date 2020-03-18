@@ -1,0 +1,453 @@
+type,skill,job,cv
+hard,data,5,0
+soft,experience,4,2
+hard,marketing,4,0
+general,predictive,3,0
+general,analytic,3,0
+general,science,2,7
+hard,education,2,1
+soft,education,2,1
+general,skills,2,1
+hard,modeling,2,0
+hard,algorithms,2,0
+general,full,2,0
+general,history,2,0
+general,cross,2,0
+general,campaign,2,0
+general,tools,2,0
+general,environment,2,0
+general,well,2,0
+general,3,2,0
+general,models,2,0
+general,000,2,0
+general,00,2,0
+general,predictive modeling,2,0
+general,000 00,2,0
+general,computer,1,8
+hard,computer science,1,6
+hard,python,1,1
+general,great,1,1
+general,work,1,1
+general,developing,1,1
+general,relevant,1,1
+general,based,1,1
+hard,decision tree,1,0
+hard,clustering,1,0
+hard,web,1,0
+hard,regression,1,0
+hard,rdbms,1,0
+hard,tableau,1,0
+hard,statistics,1,0
+hard,machine learning,1,0
+hard,r,1,0
+hard,hadoop,1,0
+hard,apache,1,0
+hard,analytics,1,0
+hard,hive,1,0
+hard,neural networks,1,0
+hard,sas,1,0
+soft,competitive,1,0
+general,job,1,0
+general,summary,1,0
+general,scientist,1,0
+general,modeleropportunity,1,0
+general,backgroundready,1,0
+general,demonstrate,1,0
+general,sciences,1,0
+general,prowess,1,0
+general,opportunity,1,0
+general,stretch,1,0
+general,fullest,1,0
+general,potential,1,0
+general,time,1,0
+general,performing,1,0
+general,consulting,1,0
+general,top,1,0
+general,brand,1,0
+general,fortune,1,0
+general,500,1,0
+general,company,1,0
+general,access,1,0
+general,large,1,0
+general,b2b,1,0
+general,b2c,1,0
+general,sets,1,0
+general,robust,1,0
+general,platform,1,0
+general,customer,1,0
+general,account,1,0
+general,enriched,1,0
+general,demographics,1,0
+general,firmagraphics,1,0
+general,transactional,1,0
+general,purchase,1,0
+general,behavior,1,0
+general,channel,1,0
+general,include,1,0
+general,managed,1,0
+general,mpp,1,0
+general,experienceyou,1,0
+general,5,1,0
+general,years,1,0
+general,background,1,0
+general,using,1,0
+general,big,1,0
+general,stack,1,0
+general,versed,1,0
+general,machine,1,0
+general,learning,1,0
+general,best,1,0
+general,achieving,1,0
+general,business,1,0
+general,objectives,1,0
+general,bayesian,1,0
+general,decision,1,0
+general,tree,1,0
+general,neural,1,0
+general,networks,1,0
+general,familiar,1,0
+general,common,1,0
+general,sell,1,0
+general,response,1,0
+general,churn,1,0
+general,lifetime,1,0
+general,value,1,0
+general,finally,1,0
+general,need,1,0
+general,deploying,1,0
+general,eligibility,1,0
+general,bachelor,1,0
+general,degreems,1,0
+general,degree,1,0
+general,preferredcompensation,1,0
+general,benefits,1,0
+general,salary,1,0
+general,provided,1,0
+general,position,1,0
+general,includes,1,0
+general,standard,1,0
+general,employment,1,0
+general,benefitsjob,1,0
+general,type,1,0
+general,timesalary,1,0
+general,120,1,0
+general,200,1,0
+general,monthrequired,1,0
+general,yearsrequired,1,0
+general,master,1,0
+general,sjob,1,0
+general,location,1,0
+general,bengaluru,1,0
+general,karnatakarequired,1,0
+general,language,1,0
+general,english,1,0
+general,job summary,1,0
+general,data scientist,1,0
+general,scientist predictive,1,0
+general,predictive modeleropportunity,1,0
+general,modeleropportunity backgroundready,1,0
+general,backgroundready demonstrate,1,0
+general,demonstrate marketing,1,0
+general,marketing analytics,1,0
+general,analytics data,1,0
+general,data sciences,1,0
+general,sciences prowess,1,0
+general,prowess great,1,0
+general,great opportunity,1,0
+general,opportunity stretch,1,0
+general,stretch skills,1,0
+general,skills experience,1,0
+general,experience fullest,1,0
+general,fullest potential,1,0
+general,potential full,1,0
+general,full time,1,0
+general,time performing,1,0
+general,performing consulting,1,0
+general,consulting work,1,0
+general,work top,1,0
+general,top brand,1,0
+general,brand fortune,1,0
+general,fortune 500,1,0
+general,500 company,1,0
+general,company access,1,0
+general,access large,1,0
+general,large b2b,1,0
+general,b2b b2c,1,0
+general,b2c data,1,0
+general,data sets,1,0
+general,sets robust,1,0
+general,robust analytic,1,0
+general,analytic platform,1,0
+general,platform customer,1,0
+general,customer account,1,0
+general,account data,1,0
+general,data enriched,1,0
+general,enriched demographics,1,0
+general,demographics firmagraphics,1,0
+general,firmagraphics transactional,1,0
+general,transactional purchase,1,0
+general,purchase history,1,0
+general,history web,1,0
+general,web behavior,1,0
+general,behavior cross,1,0
+general,cross channel,1,0
+general,channel marketing,1,0
+general,marketing campaign,1,0
+general,campaign history,1,0
+general,history tools,1,0
+general,tools analytic,1,0
+general,analytic environment,1,0
+general,environment include,1,0
+general,include sas,1,0
+general,sas tableau,1,0
+general,tableau well,1,0
+general,well managed,1,0
+general,managed mpp,1,0
+general,mpp rdbms,1,0
+general,rdbms hadoop,1,0
+general,hadoop hive,1,0
+general,hive skills,1,0
+general,skills experienceyou,1,0
+general,experienceyou 3,1,0
+general,3 5,1,0
+general,5 years,1,0
+general,years background,1,0
+general,background developing,1,0
+general,developing predictive,1,0
+general,modeling algorithms,1,0
+general,algorithms using,1,0
+general,using python,1,0
+general,python r,1,0
+general,tools apache,1,0
+general,apache big,1,0
+general,big data,1,0
+general,data stack,1,0
+general,stack well,1,0
+general,well versed,1,0
+general,versed machine,1,0
+general,learning algorithms,1,0
+general,algorithms best,1,0
+general,best achieving,1,0
+general,achieving business,1,0
+general,business analytic,1,0
+general,analytic objectives,1,0
+general,objectives bayesian,1,0
+general,bayesian regression,1,0
+general,regression decision,1,0
+general,tree clustering,1,0
+general,clustering neural,1,0
+general,networks familiar,1,0
+general,familiar common,1,0
+general,common marketing,1,0
+general,marketing models,1,0
+general,models cross,1,0
+general,cross sell,1,0
+general,sell campaign,1,0
+general,campaign response,1,0
+general,response churn,1,0
+general,churn lifetime,1,0
+general,lifetime value,1,0
+general,value finally,1,0
+general,finally need,1,0
+general,need experience,1,0
+general,experience deploying,1,0
+general,deploying models,1,0
+general,models marketing,1,0
+general,marketing environment,1,0
+general,environment education,1,0
+general,education eligibility,1,0
+general,eligibility bachelor,1,0
+general,bachelor science,1,0
+general,science computer,1,0
+general,science statistics,1,0
+general,statistics relevant,1,0
+general,relevant degreems,1,0
+general,degreems degree,1,0
+general,degree preferredcompensation,1,0
+general,preferredcompensation benefits,1,0
+general,benefits competitive,1,0
+general,competitive salary,1,0
+general,salary provided,1,0
+general,provided based,1,0
+general,based experience,1,0
+general,experience position,1,0
+general,position includes,1,0
+general,includes standard,1,0
+general,standard employment,1,0
+general,employment benefitsjob,1,0
+general,benefitsjob type,1,0
+general,type full,1,0
+general,full timesalary,1,0
+general,timesalary 120,1,0
+general,120 000,1,0
+general,00 200,1,0
+general,200 000,1,0
+general,00 monthrequired,1,0
+general,monthrequired experience,1,0
+general,experience predictive,1,0
+general,modeling 3,1,0
+general,3 yearsrequired,1,0
+general,yearsrequired education,1,0
+general,education master,1,0
+general,master sjob,1,0
+general,sjob location,1,0
+general,location bengaluru,1,0
+general,bengaluru karnatakarequired,1,0
+general,karnatakarequired language,1,0
+general,language english,1,0
+general,data scientist predictive,1,0
+general,scientist predictive modeleropportunity,1,0
+general,predictive modeleropportunity backgroundready,1,0
+general,modeleropportunity backgroundready demonstrate,1,0
+general,backgroundready demonstrate marketing,1,0
+general,demonstrate marketing analytics,1,0
+general,marketing analytics data,1,0
+general,analytics data sciences,1,0
+general,data sciences prowess,1,0
+general,sciences prowess great,1,0
+general,prowess great opportunity,1,0
+general,great opportunity stretch,1,0
+general,opportunity stretch skills,1,0
+general,stretch skills experience,1,0
+general,skills experience fullest,1,0
+general,experience fullest potential,1,0
+general,fullest potential full,1,0
+general,potential full time,1,0
+general,full time performing,1,0
+general,time performing consulting,1,0
+general,performing consulting work,1,0
+general,consulting work top,1,0
+general,work top brand,1,0
+general,top brand fortune,1,0
+general,brand fortune 500,1,0
+general,fortune 500 company,1,0
+general,500 company access,1,0
+general,company access large,1,0
+general,access large b2b,1,0
+general,large b2b b2c,1,0
+general,b2b b2c data,1,0
+general,b2c data sets,1,0
+general,data sets robust,1,0
+general,sets robust analytic,1,0
+general,robust analytic platform,1,0
+general,analytic platform customer,1,0
+general,platform customer account,1,0
+general,customer account data,1,0
+general,account data enriched,1,0
+general,data enriched demographics,1,0
+general,enriched demographics firmagraphics,1,0
+general,demographics firmagraphics transactional,1,0
+general,firmagraphics transactional purchase,1,0
+general,transactional purchase history,1,0
+general,purchase history web,1,0
+general,history web behavior,1,0
+general,web behavior cross,1,0
+general,behavior cross channel,1,0
+general,cross channel marketing,1,0
+general,channel marketing campaign,1,0
+general,marketing campaign history,1,0
+general,campaign history tools,1,0
+general,history tools analytic,1,0
+general,tools analytic environment,1,0
+general,analytic environment include,1,0
+general,environment include sas,1,0
+general,include sas tableau,1,0
+general,sas tableau well,1,0
+general,tableau well managed,1,0
+general,well managed mpp,1,0
+general,managed mpp rdbms,1,0
+general,mpp rdbms hadoop,1,0
+general,rdbms hadoop hive,1,0
+general,hadoop hive skills,1,0
+general,hive skills experienceyou,1,0
+general,skills experienceyou 3,1,0
+general,experienceyou 3 5,1,0
+general,3 5 years,1,0
+general,years background developing,1,0
+general,developing predictive modeling,1,0
+general,predictive modeling algorithms,1,0
+general,algorithms using python,1,0
+general,using python r,1,0
+general,tools apache big,1,0
+general,apache big data,1,0
+general,big data stack,1,0
+general,data stack well,1,0
+general,stack well versed,1,0
+general,well versed machine,1,0
+general,versed machine learning,1,0
+general,machine learning algorithms,1,0
+general,learning algorithms best,1,0
+general,algorithms best achieving,1,0
+general,best achieving business,1,0
+general,achieving business analytic,1,0
+general,business analytic objectives,1,0
+general,analytic objectives bayesian,1,0
+general,objectives bayesian regression,1,0
+general,bayesian regression decision,1,0
+general,regression decision tree,1,0
+general,decision tree clustering,1,0
+general,tree clustering neural,1,0
+general,clustering neural networks,1,0
+general,neural networks familiar,1,0
+general,networks familiar common,1,0
+general,familiar common marketing,1,0
+general,common marketing models,1,0
+general,marketing models cross,1,0
+general,models cross sell,1,0
+general,cross sell campaign,1,0
+general,sell campaign response,1,0
+general,campaign response churn,1,0
+general,response churn lifetime,1,0
+general,churn lifetime value,1,0
+general,lifetime value finally,1,0
+general,value finally need,1,0
+general,finally need experience,1,0
+general,need experience deploying,1,0
+general,experience deploying models,1,0
+general,deploying models marketing,1,0
+general,models marketing environment,1,0
+general,marketing environment education,1,0
+general,environment education eligibility,1,0
+general,education eligibility bachelor,1,0
+general,eligibility bachelor science,1,0
+general,bachelor science computer,1,0
+general,science computer science,1,0
+general,computer science statistics,1,0
+general,science statistics relevant,1,0
+general,statistics relevant degreems,1,0
+general,relevant degreems degree,1,0
+general,degreems degree preferredcompensation,1,0
+general,degree preferredcompensation benefits,1,0
+general,preferredcompensation benefits competitive,1,0
+general,benefits competitive salary,1,0
+general,competitive salary provided,1,0
+general,salary provided based,1,0
+general,provided based experience,1,0
+general,based experience position,1,0
+general,experience position includes,1,0
+general,position includes standard,1,0
+general,includes standard employment,1,0
+general,standard employment benefitsjob,1,0
+general,employment benefitsjob type,1,0
+general,benefitsjob type full,1,0
+general,type full timesalary,1,0
+general,full timesalary 120,1,0
+general,timesalary 120 000,1,0
+general,120 000 00,1,0
+general,000 00 200,1,0
+general,00 200 000,1,0
+general,200 000 00,1,0
+general,000 00 monthrequired,1,0
+general,00 monthrequired experience,1,0
+general,monthrequired experience predictive,1,0
+general,experience predictive modeling,1,0
+general,predictive modeling 3,1,0
+general,modeling 3 yearsrequired,1,0
+general,3 yearsrequired education,1,0
+general,yearsrequired education master,1,0
+general,education master sjob,1,0
+general,master sjob location,1,0
+general,sjob location bengaluru,1,0
+general,location bengaluru karnatakarequired,1,0
+general,bengaluru karnatakarequired language,1,0
+general,karnatakarequired language english,1,0
