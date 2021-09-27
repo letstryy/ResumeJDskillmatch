@@ -6,7 +6,3 @@ How to run:
 
 python3 Keyword_Extractor.py description.txt Resume.txt
 
-## Author
-Sneha Rawat [sneharawatt@gmail.com]
-
-Linkedin: https://www.linkedin.com/in/sneharawatt/
